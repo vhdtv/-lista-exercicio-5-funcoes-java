@@ -1,4 +1,4 @@
-# lista-exercicio-5-funcoes-java
+# Lista-exercicio-5-funcoes-java
 Lista de exercício um em java 
 Meu perfil no [Linkedin] https://www.linkedin.com/in/victor-henrique-dias-51042517a
 # Tecnologias utilizadas (JDK): https://www.oracle.com/br/java/technologies/downloads/ 
